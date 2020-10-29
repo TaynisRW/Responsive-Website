@@ -387,7 +387,6 @@ code, pre{
 @media(max-width: 522px){
     .navbar{
         height: 110px;
-        width: 522px;
     }
     .navbar .flex{
         flex-direction: column;
@@ -403,7 +402,6 @@ code, pre{
     .features-head, .features-sub-head,
     .features-main,
     .docs-head, .docs-main{
-        width: 522px;
         margin-top: -1px;
         overflow: hidden;
     }
